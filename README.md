@@ -96,7 +96,7 @@
 
 ## 📊 Github stats 
 <br>
-<p>
+<p style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=DionysusBenstein&show_icons=true&theme=react&border=61dafb&hide_border=true" alt="abhisheknaiidu" height="180px" />
 
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DionysusBenstein&layout=compact&theme=react&border=61dafb&hide_border=true" height="180px" />
