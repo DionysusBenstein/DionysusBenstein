@@ -97,9 +97,9 @@
 ## 📊 Github stats 
 <br><br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DionysusBenstein&show_icons=true&theme=react&border=61dafb&hide_border=true" alt="abhisheknaiidu" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DionysusBenstein&show_icons=true&theme=react&border=61dafb&hide_border=true" alt="abhisheknaiidu" height="180px" />
 
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DionysusBenstein&layout=compact&theme=react&border=61dafb&hide_border=true" height="170px" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DionysusBenstein&layout=compact&theme=react&border=61dafb&hide_border=true" height="180px" />
 </p>
 <p>
   <img src="https://activity-graph.herokuapp.com/graph?username=DionysusBenstein&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
