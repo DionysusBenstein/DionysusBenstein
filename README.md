@@ -12,7 +12,7 @@
 
 ```yaml
 name: Dionysus Benstein
-role: Software Engineer
+role: CTO
 company: "@DO-DIGITAL-TEAM"
 experience_since: 2016
 interests: [AI, crypto/blockchain, fintech, backend, frontend, system design, devops, game dev]
